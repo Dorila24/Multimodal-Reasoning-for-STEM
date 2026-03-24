@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "num_samples": 70,
+      "exact_match": 0.6142857142857143,
+      "norm_edit_similarity": 0.8904696065606654,
+      "char_error_rate": 0.13956395877605532,
+      "setup": "zero_shot"
+    },
+    {
+      "num_samples": 70,
+      "exact_match": 0.3142857142857143,
+      "norm_edit_similarity": 0.8069131902909227,
+      "char_error_rate": 0.2014091337723645,
+      "setup": "one_shot"
+    },
+    {
+      "num_samples": 70,
+      "exact_match": 0.9857142857142858,
+      "norm_edit_similarity": 0.9974025974025973,
+      "char_error_rate": 0.0025974025974025974,
+      "setup": "sft_linxy"
+    },
+    {
+      "num_samples": 70,
+      "exact_match": 1.0,
+      "norm_edit_similarity": 1.0,
+      "char_error_rate": 0.0,
+      "setup": "sft_linxy_mathwriting"
+    }
+  ]
+}
