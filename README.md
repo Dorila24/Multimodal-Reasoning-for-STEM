@@ -146,8 +146,14 @@ So the project can be run from a single GitHub location without external model-h
 
 ## Report and Screenshots
 
-- Report: `reports/task1_report.md`
+- [Report](reports/task1_report.md)
 - Screenshots:
-  - `reports/screenshots/01_input_photo.png`
-  - `reports/screenshots/02_latex_output.png`
-  - `reports/screenshots/03_rendered_formula.png`
+  - Input photo:
+    
+    ![input photo](reports/screenshots/01_input_photo.png)
+  - LATEX output:
+ 
+    ![latex output](reports/screenshots/02_latex_output.png)
+  - Rendered formula:
+    
+    ![rendered formula](reports/screenshots/03_rendered_formula.png)
